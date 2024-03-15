@@ -27,10 +27,10 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 Como pre-requisitos hay que tener instalado los programas _**PSeInt**_, _**Git Bash**_ y disponer de una cuenta en _**GitHub**_, por lo que a continuación se explicará los pasos a seguir.
 
 1- El primer pre-requisito es tener instalado el programa _**PSeInt**_.
-####PSeInt　
+#### PSeInt　
 >_La herramienta PSeInt es un intérprete de un lenguaje de programación basado en pseudocódigo._
 
-#####Ejemplo:
+##### Ejemplo:
 ```pseint
 Algoritmo HolaMundo
 	Escribir "Hola Mundo"
@@ -61,10 +61,10 @@ Para continuar con su instalación recomiendo seguir la siguiente descripción p
 
 2- El segundo pre-requisito es tener instalado el programa _**Git Bash**_.
 
-####Git Bash　
+#### Git Bash　
 >_La herramienta Git Bash es una aplicación que ofrece una capa de emulación para una experiencia de líneas de comandos de Git. Bash es el acrónimo en inglés de Bourne Again Shell._
 
-#####Ejemplo:
+##### Ejemplo:
 ```gitbash
 PC@DESKTOP-XXXXXXX MINGW64 ~/Desktop/File (master)
 $ add .
@@ -92,7 +92,7 @@ _**Git Bash**_ es contenido al interior del programa _**Git**_, por lo que para 
 
 3- El tercer y último pre-requisito es tener una cuenta en _**GitHub**_.
 
-####GitHub　
+#### GitHub　
 >_GitHub es una plataforma de alojamiento, propiedad de Microsoft, que ofrece a los desarrolladores la posibilidad de crear repositorios de código y guardarlos en la nube de forma segura, usando un sistema de control de versiones llamado Git._
 
 -  Para crear una cuenta se puede acceder a través del buscador en tu navegador favorito, escribiendo el nombre _**GitHub**_ e ingresando en su página oficial.
@@ -282,4 +282,4 @@ Para finalizar la entrega de esta tarea, se requiere la utilización de la herra
 
 
 
-###Fin
+### Fin
